@@ -166,7 +166,7 @@ a:hover {
 
 #section--about .content {
     width: 40%;
-    margin: 1rem;
+    margin: 2rem;
 }
 
 .content .big-title {
@@ -208,7 +208,7 @@ a:hover {
 
 #section--careers .heading {
     width: 60%;
-    margin: 2rem;
+    margin: 0 2rem;
 }
 
 #section--careers .careers {
@@ -228,7 +228,7 @@ a:hover {
 .career-card .icons {
     width: 5rem;
     height: 5rem;
-    margin: 2rem 0;
+    margin: 1rem 0;
 }
 
 /* Section blogs */
@@ -239,13 +239,14 @@ a:hover {
 }
 
 #section--blog .text-title {
-    padding: 2rem;
+    padding: 0 2rem;
 }
 
 #section--blog .blogs {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    padding: 1rem;
 }
 
 .blogs-card {
