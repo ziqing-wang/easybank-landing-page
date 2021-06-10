@@ -246,11 +246,10 @@ a:hover {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    margin: auto;
 }
 
 .blogs-card {
-    width: 17rem;
+    width: 16rem;
     margin: 1rem;
     border-radius: 0.6rem;
 }
